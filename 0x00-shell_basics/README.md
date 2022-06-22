@@ -1,0 +1,1 @@
+readm of shell basics
